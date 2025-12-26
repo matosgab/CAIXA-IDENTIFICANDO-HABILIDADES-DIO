@@ -122,7 +122,13 @@ Essas áreas ainda não são diretamente monetizáveis, mas representam investim
 ### Exemplo 2 – Modelo de proposta simples
 **Pedido à IA:** “Crie um modelo simples de proposta para um cliente que quer conteúdo para redes sociais.”  
 **Resposta da IA:** 
-> Proposta de Serviço – Criação de Conteúdo Digital / Serviço: criação de posts e vídeos curtos para redes sociais / Quantidade: X posts / X vídeos por mês / Objetivo: aumentar presença digital e engajamento / Prazo de entrega: mensal / Valor: a combinar
+> Proposta de Serviço – Criação de Conteúdo Digital
+> Serviço: criação de posts e vídeos curtos para redes sociais
+> Quantidade: X posts
+> X vídeos por mês
+> Objetivo: aumentar presença digital e engajamento
+> Prazo de entrega: mensal
+> Valor: a combinar
 Esta proposta pode ser ajustada conforme a necessidade do cliente.
 
 
