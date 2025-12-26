@@ -131,20 +131,20 @@ Esta proposta pode ser ajustada conforme a necessidade do cliente.
 ### Exemplo 3 – Ideias de conteúdo para atrair clientes
 **Pedido à IA:** “Sugira ideias de conteúdo para TikTok sobre criação de conteúdo e organização digital.”  
 **Resposta da IA:**
-- Dicas simples de como organizar ideias para postar  
-- Erros comuns de pequenos negócios nas redes sociais  
-- Antes e depois de um perfil organizado  
-- Como criar conteúdo mesmo sem aparecer  
-- Bastidores do processo criativo  
+> Dicas simples de como organizar ideias para postar  
+> Erros comuns de pequenos negócios nas redes sociais  
+> Antes e depois de um perfil organizado  
+> Como criar conteúdo mesmo sem aparecer  
+> Bastidores do processo criativo  
 
 ### Exemplo 4 – Organização do trabalho
 **Pedido à IA:** “Crie um checklist básico para criação de conteúdo digital.”  
 **Resposta da IA:**
-- Definir objetivo do conteúdo  
-- Escolher tema  
-- Criar roteiro simples  
-- Produzir conteúdo  
-- Revisar  
-- Agendar ou publicar  
+> Definir objetivo do conteúdo  
+> Escolher tema  
+> Criar roteiro simples  
+> Produzir conteúdo  
+> Revisar  
+> Agendar ou publicar  
 
 
